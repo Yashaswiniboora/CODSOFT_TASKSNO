@@ -7,15 +7,21 @@ To build a simple rule-based chatbot that responds to user inputs using predefin
 ##Technologies Used
 
 -Python 
+
 -If-Else Statements 
+
 -String Matching
 
 ##Features
 
 -Responds to greetings 
+
 -Provides basic information
+
 -Responds to "how are you"
-Provides help
+
+-Provides help
+
 -Exits when the user types bye,exit,or quit
 
 ##How to Run 
