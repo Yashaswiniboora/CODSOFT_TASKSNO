@@ -1,30 +1,30 @@
-#Task 1 - Rule-Based Chatbot
+# Task 2 -Tic-Tac-Toe AI
 
-##Objective
+## Objective
 
-To build a simple rule-based chatbot that responds to user inputs using predefined rules.
+To build an AI agent that plays Tic-tac-toe against a human player.
 
-##Technologies Used
+## Technologies Used
 
--Python 
+-Python
 
--If-Else Statements 
+-Minmax Algorithm
 
--String Matching
+-Game Theory
 
-##Features
+## Feature 
 
--Responds to greetings 
+-Human player plays as X 
 
--Provides basic information
+-AI plays as 0
 
--Responds to "how are you"
+-AI selects the best possible move
 
--Provides help
+-Detects win and draw
 
--Exits when the user types bye,exit,or quit
+-Iteractive gameplay
 
-##How to Run 
+## How to Run
 
 ```bash
-python chatbot.py
+python tic_tac_toe.py
