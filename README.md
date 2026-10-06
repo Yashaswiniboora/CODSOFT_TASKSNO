@@ -1,30 +1,28 @@
-# Task 2 -Tic-Tac-Toe AI
+## Task 4 - Movie Recommendation System
 
 ## Objective
 
-To build an AI agent that plays Tic-tac-toe against a human player.
+To build a simple recommendation system that suggests movies based on the user's preferred genre.
 
 ## Technologies Used
 
 -Python
 
--Minmax Algorithm
+-CSV
 
--Game Theory
+-Cotent-Based Filtering
 
-## Feature 
+## Features
 
--Human player plays as X 
+-Takes user's favorite genre as input 
 
--AI plays as 0
+-Searches the movie dataset
 
--AI selects the best possible move
+-Recommends movies matching the selected genre
 
--Detects win and draw
-
--Iteractive gameplay
+-Displays multiple recommendations
 
 ## How to Run
 
 ```bash
-python tic_tac_toe.py
+python recommendation.py
